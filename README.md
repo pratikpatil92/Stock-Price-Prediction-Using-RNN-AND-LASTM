@@ -1,1 +1,1 @@
-# Stock-Price-Prediction-Using-RNN-AND-LASTM
+# Stock-Price-Prediction-Using-RNN-AND-LSTM
